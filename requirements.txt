@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+fastf1
+scikit-learn
+tqdm
+optuna
+pyarrow
