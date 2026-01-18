@@ -1,0 +1,18 @@
+[
+  "LapNumber",
+  "Position",
+  "LapTimeSeconds",
+  "TyreLife",
+  "Stint",
+  "AirTemp",
+  "TrackTemp",
+  "Rainfall",
+  "WindSpeed",
+  "TempDifference",
+  "GapToCarAhead",
+  "TopSpeed",
+  "AvgSpeed",
+  "ThrottleApplication",
+  "BrakeUsage",
+  "DRS_Enabled_Pct"
+]

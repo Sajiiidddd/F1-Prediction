@@ -1,0 +1,9 @@
+Best trial:
+  Value (Best MAE): 1.3411
+  Params:
+    d_model: 64
+    nhead: 8
+    num_layers: 5
+    dropout: 0.11954943367641707
+    lr: 0.00030596532087780783
+    batch_size: 32
