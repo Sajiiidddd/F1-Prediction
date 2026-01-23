@@ -6,3 +6,5 @@ scikit-learn
 tqdm
 optuna
 pyarrow
+gradio
+scikit-learn

@@ -21,8 +21,8 @@ CONFIG = {
     "device": "cuda" if torch.cuda.is_available() else "cpu",
     "sequence_length": 10,
     # --- Simulation Target ---
-    "sim_year": 2025,
-    "sim_race": "Sao paulo",
+    "sim_year": 2024,
+    "sim_race": "Melbourne",
     "sim_delay_seconds": 0.5 # Delay between lap predictions
 }
 
